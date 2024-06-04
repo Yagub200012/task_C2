@@ -246,3 +246,5 @@ class Game:
         self.loop()
 g = Game()
 g.start()
+
+#some words to push
