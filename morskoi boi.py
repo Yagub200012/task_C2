@@ -246,3 +246,7 @@ class Game:
         self.loop()
 g = Game()
 g.start()
+
+
+
+#kikikukuу
