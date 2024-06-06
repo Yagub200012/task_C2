@@ -135,7 +135,7 @@ class Player:
     def __init__(self, f_sv, f_ch):
         self.f_sv = f_sv
         self.f_ch = f_ch
-    def ask(self):
+    def ask(self):#изменение
         pass
     def move(self):
         hod_dot = self.ask()
