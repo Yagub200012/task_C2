@@ -146,7 +146,7 @@ class AI(Player):
         ask = [randint(0,5),randint(0,5)]
         return ask
 class User(Player):
-    def ask(self):
+    def ask(self):#tdjbkfnb
         while True:
             askx = int(input('Введите вертикальную координату: '))
             asky = int(input('Введите горизонтальную координату: '))
