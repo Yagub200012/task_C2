@@ -136,7 +136,7 @@ class Player:
         self.f_sv = f_sv
         self.f_ch = f_ch
     def ask(self):
-        pass
+        pass     #отсутствие изменений
     def move(self):
         hod_dot = self.ask()
         if self.f_ch.shoot(hod_dot):
